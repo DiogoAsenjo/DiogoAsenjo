@@ -1,43 +1,42 @@
 <h1 align="center">Olá 👋, meu nome é Diogo Asenjo!</h1>
-<h3 align="center"> Sou um Desenvolvedor de Softwares </h3>
+<h3 align="center"> Bem vindo ao meu GitHub </h3>
 
-<h1 align="center"> Sobre mim: </h1>
+<h1 align="center"> 💻 Sobre mim: 🤓</h1>
 <p align="justify">
-Desde pequeno gosto de temas relacionados a tecnologia, vídeo games, aplicativos para facilitar minha vida e pelas constantes novidades e inovações. Também sempre gostei de resolver problemas, por isso, :+1:por um tempo da minha vida segui a carreira jurídica. Por questão de afinidade percebi que através da tecnologia conseguiria ajudar mais as pessoas e ao mesmo tempo me realizar pessoal e profissionalmente Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento externo a faculdade e carreira acadêmica, foi angariado de estudos autodidata em meio ao mundo de conhecimentos grautitos que temos hoje ao acessar <a href="https://google.com" target="_blank"> Google.com</a>. Sou <b>Desenvolvedor Back-end</b> (:heart:), meus conhecimentos e estudos hoje estão em torno de <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Expres.JS</b>, <b>Nest.JS</b>, <b>Spring Boot</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>MySQL</b>, <b>Docker</b>, <b>TDD</b>, <b>SOLID</b>, <b>Design Patterns</b> entre outros.
+Desde pequeno gosto de temas relacionados a tecnologia, vídeo games, aplicativos para facilitar minha vida e pelas constantes novidades e inovações. Também sempre gostei de resolver problemas, por isso, por um tempo da minha vida segui a carreira jurídica. Por questão de afinidade percebi que através da tecnologia conseguiria ajudar mais as pessoas e ao mesmo tempo me realizar pessoal e profissionalmente.
+
+Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qualquer cenário me fazem capaz de sempre aprender coisas novas para enfrentar qualquer desafio.
+
+Atualmente meus estudos e meu trabalho estão voltados ao desenvolvimento em Back-end, mas com uma pitada de Front-end, tenho utilizando principalmente as seguintes tecnologias: <b>Javascript</b>, <b>Typescript</b>, <b>NodeJS</b>, <b>ExpressJS</b>, <b>NestJS</b>, <b>PostgreSQL</b>, <b>Sequelize</b>, <b>React</b>, <b>HTML</b>, <b>CSS</b> entre outros.
+
 </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neemiasvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="neemiasvieira" height="30" width="40" /></a>
-<a href="https://instagram.com/neemiasvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="neemiasvieira" height="30" width="40" /></a> </p>
+<a href="https://www.linkedin.com/in/diogoasenjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="diogoasenjo" height="30" width="40" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=en&layout=compact" alt="neemiasvieira" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="diogoasenjo" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=en" alt="neemiasvieira" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogoasenjo&show_icons=true&locale=en" alt="diogoasenjo" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neemiasvieira&" alt="neemiasvieira" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogoasenjo&" alt="diogoasenjo" /></p>
 
 <h1 align="center"> Linguagens e ferramentas<h1>
 <!--<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>-->
 <!--<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>-->
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
 <code><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
 <code><img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></code>
 <code><img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
-<code><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></code>
-<!--<code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>-->
-<code><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
-<code><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></code>
+<code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img alt="PostreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
-<code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+<!-- <code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></code>
 <code><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
-<code><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></code>
+<code><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></code> -->
 <code><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
-<code><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
-<code><img alt="Pop OS" src="https://img.shields.io/badge/Pop!_OS-FF7139?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></code>
 
 <h1 align="center"> Fale comigo :speech_balloon: <h1>
   
