@@ -7,11 +7,10 @@ Desde pequeno gosto de temas relacionados a tecnologia, vídeo games, aplicativo
 
 Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qualquer cenário me fazem capaz de sempre aprender coisas novas para enfrentar qualquer desafio.
 
-<!-- Atualmente meus estudos e meu trabalho estão voltados ao desenvolvimento em Back-end, mas com uma pitada de Front-end, tenho utilizando principalmente as seguintes tecnologias: <b>Javascript</b>, <b>Typescript</b>, <b>NodeJS</b>, <b>ExpressJS</b>, <b>NestJS</b>, <b>PostgreSQL</b>, <b>Sequelize</b>, <b>React</b>, <b>HTML</b>, <b>CSS</b> entre outros. -->
-
 </p>
 
 <h2 align="center"> Tecnologias e lingaguens que trabalho/utilizo:<h2>
+</p align="center" >
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=282C34" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
@@ -29,28 +28,15 @@ Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qua
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="25" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="diogoasenjo" /> </p>
-
-<br>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="diogoasenjo" /> </p>
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />
-
-<br>
-
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" height="25" />
 </p>
-
-<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogoasenjo&show_icons=true&locale=en" alt="diogoasenjo" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diogoasenjo&" alt="diogoasenjo" /></p>
-
-<h3 align="center"> Fique livre para 🔎 os repositórios! </h3>
-<h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3> -->
