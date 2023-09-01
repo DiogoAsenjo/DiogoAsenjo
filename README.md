@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Diogo Asenjo!</h1>
 <h3 align="center"> Bem vindo ao meu GitHub </h3>
 
-<h1 align="center"> 💻 Sobre mim: 🤓</h1>
+<h1 align="center"> 🤓 Sobre mim: <a href="https://www.linkedin.com/in/diogoasenjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="diogoasenjo" height="20" width="16"/></a></h1>
 <p align="justify">
 Desde pequeno gosto de temas relacionados a tecnologia, vídeo games, aplicativos para facilitar minha vida e pelas constantes novidades e inovações. Também sempre gostei de resolver problemas, por isso, por um tempo da minha vida segui a carreira jurídica. Por questão de afinidade percebi que através da tecnologia conseguiria ajudar mais as pessoas e ao mesmo tempo me realizar pessoal e profissionalmente.
 
@@ -13,7 +13,7 @@ Atualmente meus estudos e meu trabalho estão voltados ao desenvolvimento em Bac
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/diogoasenjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="diogoasenjo" height="30" width="40" /></a></p>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="diogoasenjo" /> </p>
 
@@ -31,17 +31,13 @@ Atualmente meus estudos e meu trabalho estão voltados ao desenvolvimento em Bac
 <code><img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img alt="PostreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
+<code><img alt="Sequelize" src="https://img.shields.io/badge/sequelize-%23404d59.svg?style=for-the-badge&logo=sequelize&logoColor=%2361DAFB"/></code>
 <!-- <code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></code>
 <code><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
 <code><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></code> -->
 <code><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
-
-<h1 align="center"> Fale comigo :speech_balloon: <h1>
-  
-[![Linkedin Badge](https://img.shields.io/badge/ericrodriguesferreira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ericrodriguesfer/)](https://www.linkedin.com/in/ericrodriguesfer/) [![Gmail Badge](https://img.shields.io/badge/ericdesenvolvedor7@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ericdesenvolvedor7@gmail.com)](mailto:ericdesenvolvedor7@gmail.com) [![Instagram Badge](https://img.shields.io/badge/@_ericrf_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ericrf_/)](https://www.instagram.com/_ericrf_/)
-  
 <br>
 
 <h3 align="center"> Fique livre para 🔎 os repositórios! </h3>
