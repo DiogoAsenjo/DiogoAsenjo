@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Diogo Asenjo!</h1>
 <h3 align="center"> Bem vindo ao meu GitHub </h3>
 
-<h1 align="center"> 🤓 Sobre <a href="https://www.linkedin.com/in/diogoasenjo/" target="blank">m<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="diogoasenjo" height="20" width="20"/></a></h1>
+<h1 align="center"> 🤓 Sobre <a href="https://www.linkedin.com/in/diogoasenjo/" target="blank" style="color: white; text-decoration: none;">m<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="diogoasenjo" height="20" width="20"/></a></h1>
 <p align="justify">
 Desde pequeno gosto de temas relacionados a tecnologia, vídeo games, aplicativos para facilitar minha vida e pelas constantes novidades e inovações. Também sempre gostei de resolver problemas, por isso, por um tempo da minha vida segui a carreira jurídica. Por questão de afinidade percebi que através da tecnologia conseguiria ser mais útil e ao mesmo tempo me realizar pessoal e profissionalmente.
 
