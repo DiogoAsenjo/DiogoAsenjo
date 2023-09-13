@@ -9,12 +9,13 @@ Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qua
 
 </p>
 
-<h2 align="center"> Tecnologias e lingaguens que trabalho/utilizo:<h2>
+<h2 align="center"> Tecnologias e linguagens que trabalho/utilizo:<h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=282C34" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/Express.js-61DAFB?logo=express&logoColor=404D59" alt="Express.js logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&logoWidth=20" alt="Swagger logo" title="Swagger" height="25" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
 <img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
 <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
