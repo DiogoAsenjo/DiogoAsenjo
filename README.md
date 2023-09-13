@@ -32,6 +32,8 @@ Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qua
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&logoWidth=20" alt="Kubernetes logo" title="Kubernetes" height="25" />
+<img src="https://img.shields.io/badge/Quarkus-000000?logo=quarkus&logoColor=white&logoWidth=20" alt="Quarkus logo" title="Quarkus" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />
