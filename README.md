@@ -17,6 +17,7 @@ Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qua
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/Express.js-61DAFB?logo=express&logoColor=404D59" alt="Express.js logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&logoWidth=20" alt="Swagger logo" title="Swagger" height="25" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
@@ -34,7 +35,6 @@ Toda essa vivência aliada a minha curiosidade e capacidade de adaptação a qua
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="diogoasenjo" /> </p>
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&logoWidth=20" alt="Kubernetes logo" title="Kubernetes" height="25" />
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
